@@ -1,0 +1,19 @@
+{
+  "name": "assets-inline-plugin",
+  "version": "1.0.0",
+  "description": "an extension plugin for the webpack plugin html-webpack-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiquiero/assets-inline-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiquiero/assets-inline-plugin/issues"
+  },
+  "homepage": "https://github.com/Tiquiero/assets-inline-plugin#readme"
+}
