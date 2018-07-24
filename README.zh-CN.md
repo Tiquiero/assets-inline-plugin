@@ -1,6 +1,6 @@
-以html-webpack-plugin插件为基础的扩展插件。
+#以html-webpack-plugin插件为基础的扩展插件。
+
 [![NPM](https://nodei.co/npm/assets-inline-plugin.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/assets-inline-plugin/)
-------------
 
 这是以 [webpack](http://webpack.github.io)的 [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin)为基础的扩展插件。该插件可以将资源文件(js,css)以内联的形式插入进去。
 
