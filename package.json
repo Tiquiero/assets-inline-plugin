@@ -1,6 +1,6 @@
 {
   "name": "assets-inline-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an extension plugin for the webpack plugin html-webpack-plugin",
   "main": "index.js",
   "scripts": {
