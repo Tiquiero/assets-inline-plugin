@@ -30,7 +30,10 @@ class HtmlInlinePlugin {
   }
   apply(compiler) {
     compiler.plugin('compilation', compilation => {
+
+      //compilation.outputOptions是webpack的输出配置，如果想要更多的信息的话可以用compilation.options
       this.outDir = compilation.outputOptions.path;
+
       //html-webpack-plugin-alter-asset-tags允许插件在调用模板之前更改资源
       compilation.plugin('html-webpack-plugin-alter-asset-tags', (htmlPluginData, callback) => {
         if (!this.options.inline.css && !this.options.inline.js) {
