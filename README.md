@@ -1,5 +1,4 @@
 An extension for the html-webpack-plugin
-
 [![NPM](https://nodei.co/npm/assets-inline-plugin.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/assets-inline-plugin/)
 ------------
 

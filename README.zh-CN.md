@@ -1,5 +1,4 @@
 以html-webpack-plugin插件为基础的扩展插件。
-
 [![NPM](https://nodei.co/npm/assets-inline-plugin.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/assets-inline-plugin/)
 ------------
 
