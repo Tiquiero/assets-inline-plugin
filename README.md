@@ -1,7 +1,12 @@
-Inline source assets extension for the HTML Webpack Plugin
+Inline source assets extension for the html-webpack-plugin
 ========================================
 
 This is an extension plugin for the [webpack](http://webpack.github.io) plugin [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin).  It allows you to embed javascript and css source assets inline.
+
+Language
+------------
+
+[中文](README.zh-CN.md)
 
 Installation
 ------------
@@ -40,12 +45,12 @@ The available options are:
   - `inline: true`
   - `inline: /\.(css|js)$/`
   - `inline: {
-      css: /\.css$/,
-      js: /\.js$/
+        css: /\.css$/,
+        js: /\.js$/
     }`
   - `inline: {
-      css: true,
-      js: true
+        css: true,
+        js: true
     }`
 
   Default is `true`.
